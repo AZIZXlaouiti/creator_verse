@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿![creator_verse](https://github.com/AZIZXlaouiti/creator_verse/assets/79036942/a42f6b3e-6fe4-4ad4-b6b7-cb673b24fa5a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 [LiceCap](https://www.cockos.com/licecap/)
