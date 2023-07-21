@@ -2,7 +2,7 @@
 
 Submitted by: **👉🏿 Mohamed aziz Laouiti**
 
-About this web app: **👉🏿 app description here**
+About this web app: **👉🏿a frontend that supports CRUD (create, read, update, and delete) operations on your favorite content creators. Your content creators can be Twitch streamers, YouTube channels, Instagram personalities, TikTok accounts, or similar.**
 
 Time spent: **👉🏿 5** hours
 
@@ -38,9 +38,8 @@ Here's a walkthrough of implemented required features:
 👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with ...  👉🏿 [LiceCap](https://www.cockos.com/licecap/)
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
